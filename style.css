@@ -1,0 +1,24 @@
+.background {
+    background-color: #E9ECEF;
+}
+
+#atakmuzik {
+    color:red; font-size:24px
+}
+
+.jumbo {
+    text-align: center
+}
+
+.margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.choco {
+    color: chocolate;
+}
+
+ul {
+    list-style-position: inside
+}
